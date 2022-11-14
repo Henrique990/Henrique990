@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Henrique990/75659a13a7df77d0da5a2bef4565fe61/raw/72b333c45afddc136af264e7055108269632ee6f/henriquecard.svg"/>
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Henrique990/75659a13a7df77d0da5a2bef4565fe61/raw/72b333c45afddc136af264e7055108269632ee6f/henriquecard.svg"/> -->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Henrique Teixeira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique990&color=yellow" alt="Profile views" /> </p>
 
@@ -9,7 +9,7 @@
   <img align="center" src="https://img.shields.io/badge/-Henrique-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
-- 👨‍💻 All of my projects are available at [My Projects](https://henrique-portifolio.com/)
+<!-- - 👨‍💻 All of my projects are available at [My Projects](https://henrique-portifolio.com/) -->
 <!--
 - ▶️ 
 
