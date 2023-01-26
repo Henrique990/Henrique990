@@ -2,7 +2,11 @@
 <!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Henrique990/75659a13a7df77d0da5a2bef4565fe61/raw/72b333c45afddc136af264e7055108269632ee6f/henriquecard.svg"/> -->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Henrique Teixeira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique990&color=yellow" alt="Profile views" /> </p>
-<a href="https://henrique990.github.io/freelancer-portfolio/">Link to my Portfolio</a>
+<h3>Main projects:</h3>
+<p>My portfolio: https://henrique990.github.io/freelancer-portfolio/</p>
+<p>Feed: https://henrique990.github.io/Ignite-Feed/</p>
+<p>Shopp: https://ignite-shop-amber-eta.vercel.app/</p>
+<p>DT Money: https://henrique990.github.io/dt-money/</p>
 
 <h2>Welcome to my GitHub profile</h2>
 <h3>I am a front-end developer specialized in:</h3>
