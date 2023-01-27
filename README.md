@@ -28,9 +28,8 @@
 
 <p>My projects on GitHub reflect my passion for building high-quality applications and my dedication to good coding practices. Feel free to browse through my repositories and contact me if you have any questions or job opportunities.</p>
 
-- 🔭 This is my LINKEDIN<a href="https://linkedin.com/in/henrique990" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Henrique-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+<h2><a href="https://linkedin.com/in/henrique990" target="_blank"> 🔭 This is my LINKEDIN<img align="center" src="https://img.shields.io/badge/-Henrique-05122A?style=flat&logo=linkedin" alt="linkedin"/></a></h2>
+
 
 <!-- - 👨‍💻 All of my projects are available at [My Projects](https://henrique-portifolio.com/) -->
 <!--
