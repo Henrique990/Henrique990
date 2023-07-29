@@ -3,10 +3,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Henrique Teixeira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique990&color=yellow" alt="Profile views" /> </p>
 <h3>Main projects:</h3>
-<p>My portfolio: https://henrique990.github.io/freelancer-portfolio/</p>
-<p>Feed: https://henrique990.github.io/Ignite-Feed/</p>
-<p>Shopp: https://ignite-shop-amber-eta.vercel.app/</p>
-<p>DT Money: https://henrique990.github.io/dt-money/</p>
+<a href="https://henrique990.github.io/freelancer-portfolio/"><h1>My portfolio</h1></a>
 
 <h2>Welcome to my GitHub profile</h2>
 <h3>I am a front-end developer specialized in:</h3>
