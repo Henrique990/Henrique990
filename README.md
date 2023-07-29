@@ -3,7 +3,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Henrique Teixeira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henrique990&color=yellow" alt="Profile views" /> </p>
 <h3>Main projects:</h3>
-<h1><a href="https://henrique990.github.io/freelancer-portfolio/">My portfolio</a></h1>
+<h1><a href="https://henrique990.github.io/freelancer-portfolio/" target="_blank" rel="noopener noreferrer">My portfolio</a></h1>
 
 <h2>Welcome to my GitHub profile</h2>
 <h3>I am a front-end developer specialized in:</h3>
